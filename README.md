@@ -1,7 +1,7 @@
 Oleeecoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/oleeecoin-project/oleeecoin.svg?branch=master)](https://travis-ci.org/oleeecoin-project/oleeecoin)
+[![Build Status](https://travis-ci.com/OLEEEcoin/OLEEE-V-1.0.svg?branch=master)](https://travis-ci.com/OLEEEcoin/OLEEE-V-1.0)
 
 https://oleee.com
 https://oleee.org
